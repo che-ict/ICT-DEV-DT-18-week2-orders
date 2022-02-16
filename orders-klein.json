@@ -1,0 +1,25 @@
+[
+    {
+      "id": 0,
+      "organisatie": "Centuria",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 93.85,
+          "omschrijving": "aute aute adipisicing"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 163.07,
+          "omschrijving": "consequat ullamco elit"
+        }
+      ],
+      "korting": 0.07,
+      "definitief": true,
+      "datum": "2021-12-21T12:34:19-01:00"
+    }
+  ]

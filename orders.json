@@ -1,0 +1,5828 @@
+[
+    {
+      "id": 0,
+      "organisatie": "Zounds",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 164.63,
+          "omschrijving": "ex voluptate aute"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 233.69,
+          "omschrijving": "quis eiusmod tempor"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 276.43,
+          "omschrijving": "exercitation incididunt irure"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 470.04,
+          "omschrijving": "velit anim anim"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 71.57,
+          "omschrijving": "nisi esse dolor"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 250.48,
+          "omschrijving": "voluptate adipisicing mollit"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 448.23,
+          "omschrijving": "ullamco officia occaecat"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 171.88,
+          "omschrijving": "laborum pariatur esse"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 123.28,
+          "omschrijving": "sunt laborum ut"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 324.46,
+          "omschrijving": "commodo ullamco fugiat"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 233.94,
+          "omschrijving": "duis est enim"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 156.33,
+          "omschrijving": "pariatur fugiat ea"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 120.84,
+          "omschrijving": "esse minim magna"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 444.28,
+          "omschrijving": "excepteur consequat minim"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 485.17,
+          "omschrijving": "reprehenderit dolore qui"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 464.16,
+          "omschrijving": "esse elit sint"
+        },
+        {
+          "nummer": 16,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 296.16,
+          "omschrijving": "in excepteur reprehenderit"
+        },
+        {
+          "nummer": 17,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 441.29,
+          "omschrijving": "irure deserunt nisi"
+        },
+        {
+          "nummer": 18,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 85.1,
+          "omschrijving": "ut proident esse"
+        },
+        {
+          "nummer": 19,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 109.82,
+          "omschrijving": "anim amet esse"
+        }
+      ],
+      "korting": 0.06,
+      "definitief": true,
+      "datum": "2021-06-13T12:40:21-02:00"
+    },
+    {
+      "id": 1,
+      "organisatie": "Artiq",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 475.24,
+          "omschrijving": "esse ex reprehenderit"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 162.81,
+          "omschrijving": "ipsum in fugiat"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 470.36,
+          "omschrijving": "deserunt irure officia"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 64.03,
+          "omschrijving": "eiusmod dolore ad"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 61.66,
+          "omschrijving": "eiusmod est veniam"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 15.99,
+          "omschrijving": "quis nostrud ullamco"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 211.7,
+          "omschrijving": "mollit consequat aliqua"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 494.56,
+          "omschrijving": "anim adipisicing et"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 44.87,
+          "omschrijving": "consectetur in velit"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 397.53,
+          "omschrijving": "nostrud duis dolor"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 347.08,
+          "omschrijving": "ea do dolore"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 141.65,
+          "omschrijving": "sunt ullamco ad"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 148.83,
+          "omschrijving": "deserunt veniam velit"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 312.51,
+          "omschrijving": "aliquip sunt aliquip"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 116.19,
+          "omschrijving": "tempor pariatur enim"
+        },
+        {
+          "nummer": 15,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 446.23,
+          "omschrijving": "enim minim anim"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 88.69,
+          "omschrijving": "ea exercitation labore"
+        }
+      ],
+      "korting": 0.08,
+      "definitief": true,
+      "datum": "2021-09-19T06:02:27-02:00"
+    },
+    {
+      "id": 2,
+      "organisatie": "Polarium",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 118.97,
+          "omschrijving": "irure cillum laboris"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 117.93,
+          "omschrijving": "labore labore ipsum"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 406.11,
+          "omschrijving": "tempor est Lorem"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 165.19,
+          "omschrijving": "consequat ut incididunt"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 364.77,
+          "omschrijving": "enim labore nostrud"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 231.21,
+          "omschrijving": "id anim adipisicing"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 140.72,
+          "omschrijving": "commodo aliqua minim"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 47.89,
+          "omschrijving": "do ut do"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 446.59,
+          "omschrijving": "in ea deserunt"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 89.25,
+          "omschrijving": "nulla magna ullamco"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 235.74,
+          "omschrijving": "in consequat eu"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 34.97,
+          "omschrijving": "nulla nisi sunt"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 280.67,
+          "omschrijving": "sit occaecat eiusmod"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 54.65,
+          "omschrijving": "ex dolore id"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 466.89,
+          "omschrijving": "laboris dolor enim"
+        },
+        {
+          "nummer": 15,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 376.42,
+          "omschrijving": "ipsum aliquip qui"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 400.26,
+          "omschrijving": "dolore aliquip reprehenderit"
+        },
+        {
+          "nummer": 17,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 41.67,
+          "omschrijving": "aliquip enim ut"
+        },
+        {
+          "nummer": 18,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 37.71,
+          "omschrijving": "fugiat occaecat et"
+        },
+        {
+          "nummer": 19,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 275.25,
+          "omschrijving": "sit ea adipisicing"
+        }
+      ],
+      "korting": 0.09,
+      "definitief": false,
+      "datum": "2021-07-27T03:42:22-02:00"
+    },
+    {
+      "id": 3,
+      "organisatie": "Pigzart",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 402.9,
+          "omschrijving": "Lorem id Lorem"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 246.03,
+          "omschrijving": "sint ex fugiat"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 122.33,
+          "omschrijving": "cupidatat laborum occaecat"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 411.93,
+          "omschrijving": "est ad pariatur"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 340.38,
+          "omschrijving": "ullamco duis consequat"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 235.16,
+          "omschrijving": "exercitation culpa aliquip"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 22.64,
+          "omschrijving": "proident in proident"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 478.33,
+          "omschrijving": "nisi aute aliqua"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 485.33,
+          "omschrijving": "sit ex et"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 382.04,
+          "omschrijving": "consequat officia nulla"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 100.96,
+          "omschrijving": "culpa proident ex"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 345.32,
+          "omschrijving": "occaecat anim qui"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 310.83,
+          "omschrijving": "quis Lorem cupidatat"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 489.88,
+          "omschrijving": "dolore eiusmod tempor"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 487.81,
+          "omschrijving": "sit ea velit"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 52.36,
+          "omschrijving": "officia irure adipisicing"
+        },
+        {
+          "nummer": 16,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 371.51,
+          "omschrijving": "ullamco eu minim"
+        },
+        {
+          "nummer": 17,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 381.79,
+          "omschrijving": "sit deserunt qui"
+        },
+        {
+          "nummer": 18,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 192.46,
+          "omschrijving": "excepteur mollit irure"
+        }
+      ],
+      "korting": 0.2,
+      "definitief": false,
+      "datum": "2021-04-24T07:03:51-02:00"
+    },
+    {
+      "id": 4,
+      "organisatie": "Halap",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 49.1,
+          "omschrijving": "voluptate anim nisi"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 176.76,
+          "omschrijving": "labore labore id"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 384.11,
+          "omschrijving": "non non voluptate"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 243.7,
+          "omschrijving": "ut cillum Lorem"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 193.86,
+          "omschrijving": "qui sunt sunt"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 355.15,
+          "omschrijving": "occaecat et nostrud"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 233.95,
+          "omschrijving": "do elit aliqua"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 457.24,
+          "omschrijving": "ipsum officia ullamco"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 404.24,
+          "omschrijving": "irure nulla voluptate"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 166.12,
+          "omschrijving": "dolor cupidatat reprehenderit"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 464.92,
+          "omschrijving": "incididunt sit ea"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 468.1,
+          "omschrijving": "ad aliquip nisi"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 353.27,
+          "omschrijving": "eu laboris consectetur"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 280.77,
+          "omschrijving": "est minim elit"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 218.82,
+          "omschrijving": "et veniam occaecat"
+        }
+      ],
+      "korting": 0.12,
+      "definitief": true,
+      "datum": "2021-12-10T11:25:35-01:00"
+    },
+    {
+      "id": 5,
+      "organisatie": "Xixan",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 362.15,
+          "omschrijving": "elit anim cupidatat"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 56.11,
+          "omschrijving": "mollit et esse"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 259.28,
+          "omschrijving": "cillum incididunt aute"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 122.46,
+          "omschrijving": "pariatur exercitation pariatur"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 198.91,
+          "omschrijving": "culpa ipsum reprehenderit"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 16.07,
+          "omschrijving": "culpa eu labore"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 66.48,
+          "omschrijving": "quis eu cillum"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 90.8,
+          "omschrijving": "Lorem enim pariatur"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 30.08,
+          "omschrijving": "cupidatat ipsum Lorem"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 203.68,
+          "omschrijving": "duis commodo ex"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 91.01,
+          "omschrijving": "labore velit in"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 372.71,
+          "omschrijving": "eu nostrud dolore"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 108.94,
+          "omschrijving": "est nisi fugiat"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 313.21,
+          "omschrijving": "ut in excepteur"
+        }
+      ],
+      "korting": 0.09,
+      "definitief": true,
+      "datum": "2021-11-12T11:48:11-01:00"
+    },
+    {
+      "id": 6,
+      "organisatie": "Savvy",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 385.46,
+          "omschrijving": "commodo labore officia"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 101.82,
+          "omschrijving": "eu cupidatat adipisicing"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 390.75,
+          "omschrijving": "laboris nisi ea"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 492.47,
+          "omschrijving": "reprehenderit ad amet"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 80.62,
+          "omschrijving": "nostrud minim sit"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 338.32,
+          "omschrijving": "incididunt eu officia"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 495.13,
+          "omschrijving": "duis veniam velit"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 374.64,
+          "omschrijving": "consequat dolor dolore"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 395.05,
+          "omschrijving": "ad esse voluptate"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 152.64,
+          "omschrijving": "nisi id nulla"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 329.48,
+          "omschrijving": "reprehenderit ad eu"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 251.14,
+          "omschrijving": "aute ullamco adipisicing"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 363,
+          "omschrijving": "nulla laboris officia"
+        }
+      ],
+      "korting": 0.02,
+      "definitief": false,
+      "datum": "2021-11-29T12:08:08-01:00"
+    },
+    {
+      "id": 7,
+      "organisatie": "Bytrex",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 109.58,
+          "omschrijving": "ad ex et"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 68.71,
+          "omschrijving": "veniam magna qui"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 337,
+          "omschrijving": "sit irure cillum"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 444.55,
+          "omschrijving": "commodo officia laborum"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 214.73,
+          "omschrijving": "nostrud consequat consectetur"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 167.03,
+          "omschrijving": "culpa nostrud adipisicing"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 411.02,
+          "omschrijving": "excepteur aliqua proident"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 265.77,
+          "omschrijving": "reprehenderit labore nisi"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 345.06,
+          "omschrijving": "irure fugiat deserunt"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 120.49,
+          "omschrijving": "consequat sit labore"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 305.62,
+          "omschrijving": "esse aute eu"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 235.36,
+          "omschrijving": "pariatur aliqua duis"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 337.41,
+          "omschrijving": "culpa sunt aute"
+        }
+      ],
+      "korting": 0.12,
+      "definitief": false,
+      "datum": "2021-10-07T08:58:36-02:00"
+    },
+    {
+      "id": 8,
+      "organisatie": "Digigene",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 259.87,
+          "omschrijving": "ex laboris ex"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 379.54,
+          "omschrijving": "dolore voluptate laboris"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 57.57,
+          "omschrijving": "qui labore proident"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 264.31,
+          "omschrijving": "ad ex cupidatat"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 478.53,
+          "omschrijving": "dolor ullamco quis"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 199.49,
+          "omschrijving": "culpa do nisi"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 424.24,
+          "omschrijving": "sit nostrud anim"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 11.42,
+          "omschrijving": "ipsum culpa ex"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 212.45,
+          "omschrijving": "commodo duis ea"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 466.3,
+          "omschrijving": "ullamco sunt officia"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 114.14,
+          "omschrijving": "tempor adipisicing ipsum"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 155.01,
+          "omschrijving": "proident aliquip est"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 376.4,
+          "omschrijving": "irure eu mollit"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 139.59,
+          "omschrijving": "ea Lorem Lorem"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 94.05,
+          "omschrijving": "ea cupidatat occaecat"
+        },
+        {
+          "nummer": 15,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 233.39,
+          "omschrijving": "fugiat culpa adipisicing"
+        },
+        {
+          "nummer": 16,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 496.33,
+          "omschrijving": "dolor irure magna"
+        }
+      ],
+      "korting": 0.06,
+      "definitief": false,
+      "datum": "2021-03-20T10:48:44-01:00"
+    },
+    {
+      "id": 9,
+      "organisatie": "Fanfare",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 221.33,
+          "omschrijving": "fugiat enim nostrud"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 327.43,
+          "omschrijving": "officia in qui"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 20.52,
+          "omschrijving": "adipisicing nulla esse"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 121.97,
+          "omschrijving": "sit id magna"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 438.28,
+          "omschrijving": "deserunt pariatur laborum"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 80.23,
+          "omschrijving": "culpa laboris commodo"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 323.51,
+          "omschrijving": "eu voluptate labore"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 25.81,
+          "omschrijving": "cillum nulla sit"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 157.85,
+          "omschrijving": "nulla reprehenderit officia"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 490.63,
+          "omschrijving": "eu deserunt ea"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 431.94,
+          "omschrijving": "est sint sit"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 166.43,
+          "omschrijving": "consequat ex deserunt"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 195.22,
+          "omschrijving": "officia eu ullamco"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 457.79,
+          "omschrijving": "reprehenderit culpa Lorem"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 305.11,
+          "omschrijving": "laboris ut sit"
+        }
+      ],
+      "korting": 0.19,
+      "definitief": false,
+      "datum": "2022-02-13T01:39:23-01:00"
+    },
+    {
+      "id": 10,
+      "organisatie": "Eplode",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 384.89,
+          "omschrijving": "est esse velit"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 307.44,
+          "omschrijving": "dolor voluptate nulla"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 133.55,
+          "omschrijving": "velit ullamco adipisicing"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 316.54,
+          "omschrijving": "minim aliquip cupidatat"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 481.12,
+          "omschrijving": "sunt nostrud velit"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 317.11,
+          "omschrijving": "anim amet in"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 45.67,
+          "omschrijving": "mollit aute laboris"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 272.58,
+          "omschrijving": "sint quis cillum"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 431.12,
+          "omschrijving": "velit deserunt dolore"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 432.75,
+          "omschrijving": "do incididunt nulla"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 479.34,
+          "omschrijving": "eiusmod eu officia"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 84.95,
+          "omschrijving": "ullamco laborum do"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 115.01,
+          "omschrijving": "veniam tempor ad"
+        }
+      ],
+      "korting": 0.14,
+      "definitief": false,
+      "datum": "2021-11-16T10:54:31-01:00"
+    },
+    {
+      "id": 11,
+      "organisatie": "Comvex",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 362.89,
+          "omschrijving": "veniam enim aute"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 95.84,
+          "omschrijving": "magna consectetur dolore"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 41.42,
+          "omschrijving": "et consectetur est"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 228.01,
+          "omschrijving": "id aute veniam"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 187.61,
+          "omschrijving": "Lorem fugiat qui"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 413.94,
+          "omschrijving": "nulla voluptate sunt"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 494.06,
+          "omschrijving": "ea magna aute"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 329.86,
+          "omschrijving": "do consequat laborum"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 186.1,
+          "omschrijving": "aute incididunt eiusmod"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 218.16,
+          "omschrijving": "velit culpa culpa"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 385,
+          "omschrijving": "excepteur sunt ut"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 393.64,
+          "omschrijving": "culpa elit excepteur"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 99.23,
+          "omschrijving": "cupidatat adipisicing sit"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 364.69,
+          "omschrijving": "sit sint in"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 257.61,
+          "omschrijving": "veniam minim nostrud"
+        },
+        {
+          "nummer": 15,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 261.71,
+          "omschrijving": "aliquip labore enim"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 395.12,
+          "omschrijving": "pariatur anim id"
+        },
+        {
+          "nummer": 17,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 308.66,
+          "omschrijving": "velit consequat id"
+        },
+        {
+          "nummer": 18,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 174.88,
+          "omschrijving": "tempor cupidatat aute"
+        }
+      ],
+      "korting": 0.05,
+      "definitief": false,
+      "datum": "2021-09-04T06:44:25-02:00"
+    },
+    {
+      "id": 12,
+      "organisatie": "Earthwax",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 13.01,
+          "omschrijving": "adipisicing cupidatat deserunt"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 321.25,
+          "omschrijving": "minim esse aliqua"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 61.26,
+          "omschrijving": "aute aliqua id"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 170.07,
+          "omschrijving": "ullamco in nisi"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 167.42,
+          "omschrijving": "Lorem excepteur dolor"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 31.17,
+          "omschrijving": "dolore ea sunt"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 330.56,
+          "omschrijving": "amet amet ipsum"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 484.78,
+          "omschrijving": "amet sit cillum"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 220.38,
+          "omschrijving": "eu ad non"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 102.21,
+          "omschrijving": "qui quis tempor"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 36.72,
+          "omschrijving": "non sit consectetur"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 395.49,
+          "omschrijving": "excepteur incididunt occaecat"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 368.99,
+          "omschrijving": "enim esse incididunt"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 13.08,
+          "omschrijving": "eiusmod proident pariatur"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 32.09,
+          "omschrijving": "sint pariatur anim"
+        },
+        {
+          "nummer": 15,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 286.38,
+          "omschrijving": "anim ex enim"
+        }
+      ],
+      "korting": 0.12,
+      "definitief": false,
+      "datum": "2021-01-31T02:51:48-01:00"
+    },
+    {
+      "id": 13,
+      "organisatie": "Caxt",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 295.4,
+          "omschrijving": "commodo anim deserunt"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 23.71,
+          "omschrijving": "ipsum ea quis"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 484.04,
+          "omschrijving": "reprehenderit laboris irure"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 431.61,
+          "omschrijving": "aute tempor quis"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 180.74,
+          "omschrijving": "aute laborum pariatur"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 239.63,
+          "omschrijving": "reprehenderit magna cillum"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 226.41,
+          "omschrijving": "magna anim laborum"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 285.7,
+          "omschrijving": "quis occaecat consectetur"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 394.36,
+          "omschrijving": "nisi non do"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 71.06,
+          "omschrijving": "sunt irure eu"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 53.19,
+          "omschrijving": "aute ex do"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 143.64,
+          "omschrijving": "eiusmod exercitation culpa"
+        }
+      ],
+      "korting": 0.11,
+      "definitief": false,
+      "datum": "2021-02-05T10:29:54-01:00"
+    },
+    {
+      "id": 14,
+      "organisatie": "Isologica",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 67.17,
+          "omschrijving": "officia cillum nisi"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 89.06,
+          "omschrijving": "enim pariatur ullamco"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 318.68,
+          "omschrijving": "sunt aliquip Lorem"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 371.91,
+          "omschrijving": "Lorem tempor laboris"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 456.14,
+          "omschrijving": "aliqua officia aliqua"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 221.74,
+          "omschrijving": "sint veniam elit"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 448.86,
+          "omschrijving": "reprehenderit qui ea"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 384.22,
+          "omschrijving": "deserunt sit irure"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 403.65,
+          "omschrijving": "ea cillum exercitation"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 393.19,
+          "omschrijving": "anim ipsum quis"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 466.31,
+          "omschrijving": "eiusmod do deserunt"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 154.44,
+          "omschrijving": "amet ipsum consectetur"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 112.83,
+          "omschrijving": "amet mollit culpa"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 309.5,
+          "omschrijving": "cupidatat nulla sit"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 174.08,
+          "omschrijving": "culpa pariatur enim"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 128.63,
+          "omschrijving": "tempor minim officia"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 445.58,
+          "omschrijving": "sit tempor laboris"
+        },
+        {
+          "nummer": 17,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 110.62,
+          "omschrijving": "aliquip fugiat anim"
+        },
+        {
+          "nummer": 18,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 343.45,
+          "omschrijving": "deserunt in et"
+        }
+      ],
+      "korting": 0.17,
+      "definitief": false,
+      "datum": "2021-04-08T08:08:20-02:00"
+    },
+    {
+      "id": 15,
+      "organisatie": "Ronelon",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 460.48,
+          "omschrijving": "tempor nostrud reprehenderit"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 44.87,
+          "omschrijving": "anim occaecat adipisicing"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 89.75,
+          "omschrijving": "non quis laboris"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 40.69,
+          "omschrijving": "Lorem aute esse"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 232.03,
+          "omschrijving": "do dolor dolore"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 339,
+          "omschrijving": "est ullamco officia"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 81.26,
+          "omschrijving": "ut cillum est"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 69.43,
+          "omschrijving": "ad occaecat sit"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 79.91,
+          "omschrijving": "in enim proident"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 57.12,
+          "omschrijving": "cupidatat nostrud adipisicing"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 220.26,
+          "omschrijving": "eiusmod excepteur tempor"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 426.28,
+          "omschrijving": "aute mollit cupidatat"
+        }
+      ],
+      "korting": 0.13,
+      "definitief": false,
+      "datum": "2021-12-13T08:14:15-01:00"
+    },
+    {
+      "id": 16,
+      "organisatie": "Concility",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 271.97,
+          "omschrijving": "eu Lorem ea"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 239.36,
+          "omschrijving": "enim dolore ipsum"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 349.87,
+          "omschrijving": "consectetur enim nostrud"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 417.41,
+          "omschrijving": "adipisicing ipsum labore"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 105.99,
+          "omschrijving": "eiusmod duis consequat"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 182.52,
+          "omschrijving": "culpa do nulla"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 289.73,
+          "omschrijving": "deserunt do aliqua"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 265.51,
+          "omschrijving": "aliquip culpa irure"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 183.01,
+          "omschrijving": "anim do nostrud"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 18.04,
+          "omschrijving": "labore culpa sit"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 69.65,
+          "omschrijving": "excepteur deserunt non"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 451.8,
+          "omschrijving": "exercitation ut officia"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 196.53,
+          "omschrijving": "cillum do voluptate"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 193.16,
+          "omschrijving": "reprehenderit minim amet"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 483.84,
+          "omschrijving": "ad cupidatat aute"
+        },
+        {
+          "nummer": 15,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 491.72,
+          "omschrijving": "do non adipisicing"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 252.01,
+          "omschrijving": "Lorem incididunt aliquip"
+        }
+      ],
+      "korting": 0.11,
+      "definitief": false,
+      "datum": "2021-05-16T04:15:18-02:00"
+    },
+    {
+      "id": 17,
+      "organisatie": "Uberlux",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 373.07,
+          "omschrijving": "ut quis veniam"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 89.96,
+          "omschrijving": "enim aliqua culpa"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 127.18,
+          "omschrijving": "magna adipisicing magna"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 353.82,
+          "omschrijving": "consequat proident tempor"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 217.37,
+          "omschrijving": "et deserunt nulla"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 38.82,
+          "omschrijving": "commodo officia eiusmod"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 246.84,
+          "omschrijving": "Lorem reprehenderit esse"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 159.21,
+          "omschrijving": "consectetur ex irure"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 105.34,
+          "omschrijving": "sit reprehenderit minim"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 40.26,
+          "omschrijving": "enim nisi anim"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 361.96,
+          "omschrijving": "sunt id aute"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 157.77,
+          "omschrijving": "commodo voluptate fugiat"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 61.79,
+          "omschrijving": "labore mollit id"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 295.57,
+          "omschrijving": "qui anim est"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 33.72,
+          "omschrijving": "proident commodo sint"
+        },
+        {
+          "nummer": 15,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 479.32,
+          "omschrijving": "nisi anim nulla"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 418.33,
+          "omschrijving": "ipsum ex amet"
+        },
+        {
+          "nummer": 17,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 236.36,
+          "omschrijving": "incididunt cillum fugiat"
+        },
+        {
+          "nummer": 18,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 400.97,
+          "omschrijving": "nisi eu cupidatat"
+        }
+      ],
+      "korting": 0.05,
+      "definitief": true,
+      "datum": "2021-01-24T12:42:30-01:00"
+    },
+    {
+      "id": 18,
+      "organisatie": "Musix",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 416.16,
+          "omschrijving": "incididunt eiusmod proident"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 220.28,
+          "omschrijving": "enim ex irure"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 493.11,
+          "omschrijving": "voluptate magna irure"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 341.48,
+          "omschrijving": "id do labore"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 429.56,
+          "omschrijving": "adipisicing voluptate nostrud"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 295.51,
+          "omschrijving": "enim amet dolor"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 323.61,
+          "omschrijving": "consectetur officia irure"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 297.67,
+          "omschrijving": "fugiat qui irure"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 142.24,
+          "omschrijving": "ad ipsum veniam"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 187.36,
+          "omschrijving": "nostrud aute mollit"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 398.99,
+          "omschrijving": "nisi ullamco laborum"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 16.45,
+          "omschrijving": "ea mollit sunt"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 368.62,
+          "omschrijving": "officia ipsum eu"
+        }
+      ],
+      "korting": 0.2,
+      "definitief": false,
+      "datum": "2021-05-04T01:51:07-02:00"
+    },
+    {
+      "id": 19,
+      "organisatie": "Medcom",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 300.88,
+          "omschrijving": "do tempor eu"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 182.27,
+          "omschrijving": "nisi eiusmod cupidatat"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 187.52,
+          "omschrijving": "aute velit id"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 181.15,
+          "omschrijving": "incididunt ea et"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 398.6,
+          "omschrijving": "ea exercitation voluptate"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 334.55,
+          "omschrijving": "laboris irure veniam"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 156.93,
+          "omschrijving": "dolor id quis"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 354.07,
+          "omschrijving": "proident qui incididunt"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 336.84,
+          "omschrijving": "incididunt magna irure"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 282.21,
+          "omschrijving": "eiusmod nostrud quis"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 163.24,
+          "omschrijving": "pariatur minim deserunt"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 51.84,
+          "omschrijving": "nulla consequat velit"
+        }
+      ],
+      "korting": 0.05,
+      "definitief": true,
+      "datum": "2021-05-20T02:01:58-02:00"
+    },
+    {
+      "id": 20,
+      "organisatie": "Essensia",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 252.46,
+          "omschrijving": "ut elit elit"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 360.76,
+          "omschrijving": "occaecat nulla minim"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 177.7,
+          "omschrijving": "id id sit"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 453.93,
+          "omschrijving": "cupidatat officia enim"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 272.59,
+          "omschrijving": "enim anim proident"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 418.51,
+          "omschrijving": "non officia duis"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 147.52,
+          "omschrijving": "voluptate consectetur id"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 33.5,
+          "omschrijving": "sint ut elit"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 197.64,
+          "omschrijving": "adipisicing amet aute"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 282.21,
+          "omschrijving": "aliqua consectetur incididunt"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 459,
+          "omschrijving": "non esse veniam"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 332.74,
+          "omschrijving": "voluptate cupidatat aute"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 324.98,
+          "omschrijving": "esse nulla pariatur"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 252.33,
+          "omschrijving": "officia ipsum sint"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 467.8,
+          "omschrijving": "sint tempor fugiat"
+        },
+        {
+          "nummer": 15,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 452.24,
+          "omschrijving": "id est deserunt"
+        },
+        {
+          "nummer": 16,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 124.77,
+          "omschrijving": "minim amet duis"
+        }
+      ],
+      "korting": 0.04,
+      "definitief": true,
+      "datum": "2021-11-30T11:56:28-01:00"
+    },
+    {
+      "id": 21,
+      "organisatie": "Acruex",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 70.43,
+          "omschrijving": "sit laborum ad"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 387.64,
+          "omschrijving": "incididunt Lorem irure"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 422.27,
+          "omschrijving": "consectetur officia non"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 308.03,
+          "omschrijving": "amet incididunt aliqua"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 102.06,
+          "omschrijving": "velit eu laborum"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 315.18,
+          "omschrijving": "ut cupidatat consequat"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 468.67,
+          "omschrijving": "ut ea officia"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 80.51,
+          "omschrijving": "ex elit ea"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 224.58,
+          "omschrijving": "adipisicing proident sit"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 247.92,
+          "omschrijving": "ullamco proident nulla"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 467.41,
+          "omschrijving": "ullamco ut ut"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 276.46,
+          "omschrijving": "minim irure esse"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 94.98,
+          "omschrijving": "velit cillum ex"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 174.39,
+          "omschrijving": "duis enim veniam"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 269.33,
+          "omschrijving": "esse qui sint"
+        },
+        {
+          "nummer": 15,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 66.47,
+          "omschrijving": "do occaecat dolor"
+        }
+      ],
+      "korting": 0.19,
+      "definitief": false,
+      "datum": "2022-02-02T04:36:58-01:00"
+    },
+    {
+      "id": 22,
+      "organisatie": "Kozgene",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 273.52,
+          "omschrijving": "excepteur velit velit"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 412.79,
+          "omschrijving": "proident eiusmod culpa"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 284.99,
+          "omschrijving": "consectetur nostrud laborum"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 431.12,
+          "omschrijving": "eu et velit"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 98.2,
+          "omschrijving": "amet magna Lorem"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 455.92,
+          "omschrijving": "irure voluptate incididunt"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 92.1,
+          "omschrijving": "adipisicing reprehenderit veniam"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 65.57,
+          "omschrijving": "dolore dolor excepteur"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 455.77,
+          "omschrijving": "occaecat anim enim"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 118.8,
+          "omschrijving": "fugiat amet aliqua"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 208.7,
+          "omschrijving": "et adipisicing laboris"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 350.58,
+          "omschrijving": "do enim ipsum"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 419.34,
+          "omschrijving": "sunt incididunt duis"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 86.73,
+          "omschrijving": "commodo laborum amet"
+        }
+      ],
+      "korting": 0.19,
+      "definitief": false,
+      "datum": "2021-09-04T08:58:34-02:00"
+    },
+    {
+      "id": 23,
+      "organisatie": "Opportech",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 18.5,
+          "omschrijving": "et ullamco sunt"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 28.79,
+          "omschrijving": "mollit occaecat eu"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 389.9,
+          "omschrijving": "in aute labore"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 302.37,
+          "omschrijving": "officia nostrud enim"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 480.08,
+          "omschrijving": "aliquip Lorem fugiat"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 434.27,
+          "omschrijving": "velit et qui"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 270.04,
+          "omschrijving": "adipisicing aliqua ipsum"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 33.96,
+          "omschrijving": "officia tempor mollit"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 465.3,
+          "omschrijving": "laborum consectetur mollit"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 122.21,
+          "omschrijving": "tempor consequat adipisicing"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 308.49,
+          "omschrijving": "consequat minim ullamco"
+        }
+      ],
+      "korting": 0.11,
+      "definitief": true,
+      "datum": "2021-02-07T04:15:07-01:00"
+    },
+    {
+      "id": 24,
+      "organisatie": "Tsunamia",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 161.9,
+          "omschrijving": "excepteur cillum consequat"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 298.52,
+          "omschrijving": "amet nulla exercitation"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 193.33,
+          "omschrijving": "eu ut deserunt"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 103.04,
+          "omschrijving": "veniam elit ut"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 442.88,
+          "omschrijving": "cupidatat proident in"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 379.41,
+          "omschrijving": "deserunt aliquip et"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 494.39,
+          "omschrijving": "anim duis consectetur"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 412.59,
+          "omschrijving": "consequat cupidatat ex"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 300.94,
+          "omschrijving": "est commodo consequat"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 156.92,
+          "omschrijving": "nostrud esse aute"
+        }
+      ],
+      "korting": 0.03,
+      "definitief": false,
+      "datum": "2022-01-30T03:10:10-01:00"
+    },
+    {
+      "id": 25,
+      "organisatie": "Techtrix",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 355.32,
+          "omschrijving": "non anim adipisicing"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 108.78,
+          "omschrijving": "esse tempor commodo"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 214.68,
+          "omschrijving": "consectetur nisi consequat"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 16.34,
+          "omschrijving": "excepteur commodo veniam"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 310.7,
+          "omschrijving": "deserunt laboris duis"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 380.04,
+          "omschrijving": "pariatur non deserunt"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 485.13,
+          "omschrijving": "adipisicing ut magna"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 149.45,
+          "omschrijving": "non nisi nisi"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 155.69,
+          "omschrijving": "enim eu dolore"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 105.63,
+          "omschrijving": "elit fugiat nisi"
+        }
+      ],
+      "korting": 0.13,
+      "definitief": false,
+      "datum": "2021-09-20T11:27:02-02:00"
+    },
+    {
+      "id": 26,
+      "organisatie": "Suretech",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 279.73,
+          "omschrijving": "consectetur irure sunt"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 410.69,
+          "omschrijving": "eu voluptate officia"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 440.68,
+          "omschrijving": "reprehenderit proident excepteur"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 419.27,
+          "omschrijving": "culpa in incididunt"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 78.73,
+          "omschrijving": "do excepteur ipsum"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 67.61,
+          "omschrijving": "id anim culpa"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 386.19,
+          "omschrijving": "ipsum sunt qui"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 178.02,
+          "omschrijving": "nostrud duis duis"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 340.38,
+          "omschrijving": "minim dolore sint"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 206.9,
+          "omschrijving": "commodo nisi ex"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 241.15,
+          "omschrijving": "excepteur do id"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 65.66,
+          "omschrijving": "eiusmod aliqua culpa"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 387.04,
+          "omschrijving": "consequat culpa exercitation"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 87.14,
+          "omschrijving": "mollit fugiat adipisicing"
+        }
+      ],
+      "korting": 0.16,
+      "definitief": true,
+      "datum": "2021-07-09T10:59:00-02:00"
+    },
+    {
+      "id": 27,
+      "organisatie": "Candecor",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 150.51,
+          "omschrijving": "excepteur laborum sit"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 77.55,
+          "omschrijving": "exercitation minim minim"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 61.71,
+          "omschrijving": "consectetur occaecat culpa"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 363.78,
+          "omschrijving": "laborum ut sunt"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 411.04,
+          "omschrijving": "velit id anim"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 468.33,
+          "omschrijving": "do Lorem laborum"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 477.57,
+          "omschrijving": "qui irure eiusmod"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 408.18,
+          "omschrijving": "sunt eiusmod velit"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 177.26,
+          "omschrijving": "cupidatat elit ut"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 497.82,
+          "omschrijving": "ipsum magna deserunt"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 425.41,
+          "omschrijving": "qui dolor velit"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 308.75,
+          "omschrijving": "laborum irure duis"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 369.77,
+          "omschrijving": "ad eu ipsum"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 187.31,
+          "omschrijving": "ullamco pariatur irure"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 314.22,
+          "omschrijving": "dolor occaecat excepteur"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 183.04,
+          "omschrijving": "velit eiusmod aute"
+        },
+        {
+          "nummer": 16,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 469.86,
+          "omschrijving": "labore anim ipsum"
+        },
+        {
+          "nummer": 17,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 78.28,
+          "omschrijving": "occaecat culpa nisi"
+        }
+      ],
+      "korting": 0.02,
+      "definitief": false,
+      "datum": "2021-03-11T08:10:55-01:00"
+    },
+    {
+      "id": 28,
+      "organisatie": "Deminimum",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 104.18,
+          "omschrijving": "culpa amet nisi"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 134.94,
+          "omschrijving": "enim officia culpa"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 43.98,
+          "omschrijving": "esse proident veniam"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 377.57,
+          "omschrijving": "fugiat voluptate sint"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 321.67,
+          "omschrijving": "anim veniam ad"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 67.35,
+          "omschrijving": "culpa anim mollit"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 86.75,
+          "omschrijving": "Lorem dolore nulla"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 96.56,
+          "omschrijving": "sint non sint"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 108.34,
+          "omschrijving": "nostrud ut cillum"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 497.07,
+          "omschrijving": "est do consequat"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 202.08,
+          "omschrijving": "proident elit eiusmod"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 450.32,
+          "omschrijving": "ipsum eiusmod est"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 446.7,
+          "omschrijving": "excepteur cillum sit"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 148.54,
+          "omschrijving": "elit et aliquip"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 410.29,
+          "omschrijving": "labore eu dolor"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 410.31,
+          "omschrijving": "eiusmod culpa velit"
+        },
+        {
+          "nummer": 16,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 316.29,
+          "omschrijving": "aliqua veniam pariatur"
+        }
+      ],
+      "korting": 0,
+      "definitief": true,
+      "datum": "2021-12-29T03:42:53-01:00"
+    },
+    {
+      "id": 29,
+      "organisatie": "Premiant",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 384.25,
+          "omschrijving": "velit officia elit"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 443.08,
+          "omschrijving": "quis incididunt minim"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 352.51,
+          "omschrijving": "quis exercitation proident"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 117.9,
+          "omschrijving": "quis excepteur exercitation"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 92.09,
+          "omschrijving": "laboris mollit est"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 438.41,
+          "omschrijving": "sunt reprehenderit dolore"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 55.25,
+          "omschrijving": "duis magna sit"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 168.84,
+          "omschrijving": "officia enim amet"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 494.85,
+          "omschrijving": "irure commodo ad"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 68.36,
+          "omschrijving": "id sunt enim"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 148.69,
+          "omschrijving": "labore reprehenderit qui"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 185.67,
+          "omschrijving": "pariatur duis elit"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 493.81,
+          "omschrijving": "tempor irure incididunt"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 454.56,
+          "omschrijving": "ullamco voluptate duis"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 413.01,
+          "omschrijving": "fugiat proident sunt"
+        },
+        {
+          "nummer": 15,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 244.87,
+          "omschrijving": "elit excepteur deserunt"
+        },
+        {
+          "nummer": 16,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 241.44,
+          "omschrijving": "et ex do"
+        }
+      ],
+      "korting": 0.04,
+      "definitief": false,
+      "datum": "2022-02-09T11:57:22-01:00"
+    },
+    {
+      "id": 30,
+      "organisatie": "Polaria",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 326.49,
+          "omschrijving": "excepteur ullamco dolore"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 399.31,
+          "omschrijving": "laboris pariatur dolore"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 278.96,
+          "omschrijving": "labore anim eu"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 317.48,
+          "omschrijving": "id aliqua occaecat"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 159.8,
+          "omschrijving": "ex id labore"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 179.27,
+          "omschrijving": "officia proident nostrud"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 55.42,
+          "omschrijving": "dolore sint aliquip"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 276.7,
+          "omschrijving": "dolor aliquip Lorem"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 42.74,
+          "omschrijving": "sit duis adipisicing"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 104.29,
+          "omschrijving": "aliquip culpa duis"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 219.69,
+          "omschrijving": "tempor mollit culpa"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 196.25,
+          "omschrijving": "id quis fugiat"
+        }
+      ],
+      "korting": 0.1,
+      "definitief": true,
+      "datum": "2022-01-30T05:06:44-01:00"
+    },
+    {
+      "id": 31,
+      "organisatie": "Comtour",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 326.71,
+          "omschrijving": "ad Lorem laboris"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 162.57,
+          "omschrijving": "duis adipisicing ex"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 21.33,
+          "omschrijving": "nulla laboris et"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 372.46,
+          "omschrijving": "irure consectetur et"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 317.54,
+          "omschrijving": "commodo labore do"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 191.06,
+          "omschrijving": "duis mollit enim"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 148.69,
+          "omschrijving": "enim irure deserunt"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 50.7,
+          "omschrijving": "nisi nisi quis"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 165.54,
+          "omschrijving": "incididunt veniam eiusmod"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 290.12,
+          "omschrijving": "eiusmod amet ullamco"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 195.16,
+          "omschrijving": "adipisicing minim eiusmod"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 268.41,
+          "omschrijving": "proident amet minim"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 188.78,
+          "omschrijving": "exercitation irure sit"
+        }
+      ],
+      "korting": 0.08,
+      "definitief": false,
+      "datum": "2021-05-23T05:28:43-02:00"
+    },
+    {
+      "id": 32,
+      "organisatie": "Jumpstack",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 423.85,
+          "omschrijving": "velit est cillum"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 165.31,
+          "omschrijving": "culpa est ullamco"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 151.18,
+          "omschrijving": "minim reprehenderit commodo"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 313.67,
+          "omschrijving": "dolore magna anim"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 352.19,
+          "omschrijving": "non do in"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 22.44,
+          "omschrijving": "do voluptate qui"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 178.28,
+          "omschrijving": "et nulla proident"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 437.58,
+          "omschrijving": "occaecat deserunt ullamco"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 276.24,
+          "omschrijving": "sunt occaecat elit"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 125.65,
+          "omschrijving": "ea irure ex"
+        }
+      ],
+      "korting": 0.05,
+      "definitief": true,
+      "datum": "2021-02-13T06:33:35-01:00"
+    },
+    {
+      "id": 33,
+      "organisatie": "Datagene",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 31.22,
+          "omschrijving": "pariatur sint ut"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 72.31,
+          "omschrijving": "commodo duis laboris"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 251.41,
+          "omschrijving": "irure proident ipsum"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 179.16,
+          "omschrijving": "ea esse sint"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 454.48,
+          "omschrijving": "voluptate velit cupidatat"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 456.38,
+          "omschrijving": "incididunt laborum reprehenderit"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 241.82,
+          "omschrijving": "est amet deserunt"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 455.11,
+          "omschrijving": "id sunt enim"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 30.07,
+          "omschrijving": "labore consectetur sunt"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 450.83,
+          "omschrijving": "enim tempor aute"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 231.84,
+          "omschrijving": "ipsum est velit"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 77.71,
+          "omschrijving": "culpa pariatur nulla"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 148.53,
+          "omschrijving": "voluptate nulla do"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 444.54,
+          "omschrijving": "pariatur consequat elit"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 312.67,
+          "omschrijving": "incididunt Lorem nostrud"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 460.42,
+          "omschrijving": "irure Lorem culpa"
+        },
+        {
+          "nummer": 16,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 171.2,
+          "omschrijving": "sunt ipsum officia"
+        },
+        {
+          "nummer": 17,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 244.63,
+          "omschrijving": "nulla enim consequat"
+        },
+        {
+          "nummer": 18,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 232.01,
+          "omschrijving": "amet nulla consequat"
+        }
+      ],
+      "korting": 0.15,
+      "definitief": false,
+      "datum": "2021-06-15T02:00:21-02:00"
+    },
+    {
+      "id": 34,
+      "organisatie": "Cablam",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 11.67,
+          "omschrijving": "mollit ullamco magna"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 430.29,
+          "omschrijving": "enim magna ut"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 308.58,
+          "omschrijving": "excepteur veniam excepteur"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 276.74,
+          "omschrijving": "qui qui excepteur"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 443.56,
+          "omschrijving": "incididunt do laboris"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 28.97,
+          "omschrijving": "laborum est incididunt"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 323.36,
+          "omschrijving": "sit cillum magna"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 492.84,
+          "omschrijving": "Lorem pariatur quis"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 434.46,
+          "omschrijving": "voluptate adipisicing ex"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 28.3,
+          "omschrijving": "excepteur deserunt magna"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 452.31,
+          "omschrijving": "amet est occaecat"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 73.42,
+          "omschrijving": "id ullamco excepteur"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 141.25,
+          "omschrijving": "labore incididunt consequat"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 461.92,
+          "omschrijving": "enim adipisicing nulla"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 368.13,
+          "omschrijving": "aliquip do tempor"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 35.13,
+          "omschrijving": "in incididunt ipsum"
+        }
+      ],
+      "korting": 0.15,
+      "definitief": true,
+      "datum": "2021-07-12T12:45:33-02:00"
+    },
+    {
+      "id": 35,
+      "organisatie": "Primordia",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 127.26,
+          "omschrijving": "est mollit cillum"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 469.95,
+          "omschrijving": "commodo ex anim"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 188.28,
+          "omschrijving": "anim dolor do"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 266.82,
+          "omschrijving": "voluptate amet velit"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 238.12,
+          "omschrijving": "dolor dolore amet"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 255.03,
+          "omschrijving": "irure enim commodo"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 290.98,
+          "omschrijving": "laboris nisi nostrud"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 358.01,
+          "omschrijving": "fugiat fugiat sint"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 286.59,
+          "omschrijving": "cillum adipisicing aute"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 460.45,
+          "omschrijving": "minim culpa voluptate"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 318.17,
+          "omschrijving": "velit minim elit"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 475.53,
+          "omschrijving": "cillum laborum commodo"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 322.15,
+          "omschrijving": "ad exercitation est"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 406.81,
+          "omschrijving": "mollit sint dolore"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 179.7,
+          "omschrijving": "mollit mollit pariatur"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 436.92,
+          "omschrijving": "labore consectetur do"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 369.78,
+          "omschrijving": "cupidatat eu ipsum"
+        },
+        {
+          "nummer": 17,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 254.77,
+          "omschrijving": "quis qui proident"
+        },
+        {
+          "nummer": 18,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 23.3,
+          "omschrijving": "ut reprehenderit consequat"
+        }
+      ],
+      "korting": 0.09,
+      "definitief": true,
+      "datum": "2021-08-23T10:11:09-02:00"
+    },
+    {
+      "id": 36,
+      "organisatie": "Reversus",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 441.58,
+          "omschrijving": "dolor incididunt pariatur"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 42.24,
+          "omschrijving": "veniam laborum reprehenderit"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 357.54,
+          "omschrijving": "duis non id"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 140.36,
+          "omschrijving": "mollit nostrud esse"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 144.46,
+          "omschrijving": "consequat elit ex"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 48.74,
+          "omschrijving": "id dolore incididunt"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 458.85,
+          "omschrijving": "cupidatat consectetur nulla"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 461.7,
+          "omschrijving": "nulla aliquip nisi"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 254.06,
+          "omschrijving": "anim sunt labore"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 307.55,
+          "omschrijving": "quis ex proident"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 346.98,
+          "omschrijving": "dolore est dolor"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 333.18,
+          "omschrijving": "amet aliquip anim"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 247.39,
+          "omschrijving": "et qui sint"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 127.91,
+          "omschrijving": "id ullamco amet"
+        }
+      ],
+      "korting": 0.03,
+      "definitief": true,
+      "datum": "2021-10-23T02:47:11-02:00"
+    },
+    {
+      "id": 37,
+      "organisatie": "Rodeocean",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 59.19,
+          "omschrijving": "esse duis eiusmod"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 174.61,
+          "omschrijving": "sit duis cillum"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 296.47,
+          "omschrijving": "magna nulla cillum"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 173.15,
+          "omschrijving": "reprehenderit cupidatat eiusmod"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 112.82,
+          "omschrijving": "voluptate veniam nisi"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 155.59,
+          "omschrijving": "sunt et proident"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 381.84,
+          "omschrijving": "adipisicing reprehenderit exercitation"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 425.71,
+          "omschrijving": "eu est exercitation"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 232.62,
+          "omschrijving": "ex qui exercitation"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 166.29,
+          "omschrijving": "est sunt enim"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 391.73,
+          "omschrijving": "eu elit non"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 39.41,
+          "omschrijving": "sunt irure reprehenderit"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 11.84,
+          "omschrijving": "tempor est Lorem"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 264.06,
+          "omschrijving": "deserunt commodo occaecat"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 423.89,
+          "omschrijving": "proident sint mollit"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 225.73,
+          "omschrijving": "est ad proident"
+        },
+        {
+          "nummer": 16,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 480.45,
+          "omschrijving": "esse anim ut"
+        }
+      ],
+      "korting": 0.18,
+      "definitief": false,
+      "datum": "2021-07-15T08:35:07-02:00"
+    },
+    {
+      "id": 38,
+      "organisatie": "Comvey",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 369.93,
+          "omschrijving": "eiusmod laborum occaecat"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 229.86,
+          "omschrijving": "elit aliquip qui"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 251.05,
+          "omschrijving": "dolore esse ad"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 278.42,
+          "omschrijving": "minim dolor qui"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 316,
+          "omschrijving": "minim occaecat irure"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 468.19,
+          "omschrijving": "esse laboris exercitation"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 460.19,
+          "omschrijving": "ut sint eu"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 20.71,
+          "omschrijving": "excepteur amet ut"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 35.72,
+          "omschrijving": "ipsum adipisicing excepteur"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 426.75,
+          "omschrijving": "sint dolor dolore"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 308.8,
+          "omschrijving": "consequat id incididunt"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 279.71,
+          "omschrijving": "nisi occaecat elit"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 437.06,
+          "omschrijving": "eiusmod deserunt consectetur"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 32.4,
+          "omschrijving": "ut duis culpa"
+        }
+      ],
+      "korting": 0.08,
+      "definitief": false,
+      "datum": "2021-10-22T03:43:51-02:00"
+    },
+    {
+      "id": 39,
+      "organisatie": "Qaboos",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 94.87,
+          "omschrijving": "eu enim reprehenderit"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 122.17,
+          "omschrijving": "labore fugiat ex"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 90.14,
+          "omschrijving": "consequat enim anim"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 15.55,
+          "omschrijving": "pariatur irure sit"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 233.94,
+          "omschrijving": "consequat anim fugiat"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 333.95,
+          "omschrijving": "ea sit Lorem"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 73.9,
+          "omschrijving": "irure quis exercitation"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 238.71,
+          "omschrijving": "cupidatat exercitation aliquip"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 3,
+          "prijs": 89.2,
+          "omschrijving": "est in ex"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 240.57,
+          "omschrijving": "cillum est aliqua"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 330.19,
+          "omschrijving": "ex nostrud magna"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 33.42,
+          "omschrijving": "commodo cupidatat ex"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 448.1,
+          "omschrijving": "et officia velit"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 248.47,
+          "omschrijving": "tempor magna excepteur"
+        }
+      ],
+      "korting": 0.18,
+      "definitief": false,
+      "datum": "2021-08-01T04:19:03-02:00"
+    },
+    {
+      "id": 40,
+      "organisatie": "Imant",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 472.69,
+          "omschrijving": "eiusmod ipsum magna"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 75.95,
+          "omschrijving": "nisi eiusmod eu"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 438.87,
+          "omschrijving": "ut laboris ad"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 324.78,
+          "omschrijving": "enim incididunt ea"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 458.91,
+          "omschrijving": "cillum est nostrud"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 38.12,
+          "omschrijving": "sunt ipsum velit"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 19.76,
+          "omschrijving": "proident consequat esse"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 6,
+          "prijs": 406.34,
+          "omschrijving": "esse et sit"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 293.73,
+          "omschrijving": "ipsum aute veniam"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 451.43,
+          "omschrijving": "labore aliquip incididunt"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 39.31,
+          "omschrijving": "irure occaecat duis"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 21.81,
+          "omschrijving": "quis sunt tempor"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 200.93,
+          "omschrijving": "occaecat est officia"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 246.1,
+          "omschrijving": "aliqua minim minim"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 407.33,
+          "omschrijving": "esse esse sit"
+        },
+        {
+          "nummer": 15,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 478.72,
+          "omschrijving": "veniam labore velit"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 485.24,
+          "omschrijving": "aliqua consectetur id"
+        },
+        {
+          "nummer": 17,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 154.23,
+          "omschrijving": "et elit officia"
+        },
+        {
+          "nummer": 18,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 229.65,
+          "omschrijving": "magna aliqua ullamco"
+        }
+      ],
+      "korting": 0.15,
+      "definitief": true,
+      "datum": "2021-03-18T03:14:34-01:00"
+    },
+    {
+      "id": 41,
+      "organisatie": "Zentry",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 84.73,
+          "omschrijving": "ut nulla mollit"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 66.1,
+          "omschrijving": "labore cillum sit"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 411.97,
+          "omschrijving": "laborum minim ad"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 12.69,
+          "omschrijving": "elit magna adipisicing"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 249.97,
+          "omschrijving": "sint et aliquip"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 109.9,
+          "omschrijving": "laboris proident dolore"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 326.33,
+          "omschrijving": "eiusmod veniam adipisicing"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 448.54,
+          "omschrijving": "consequat tempor id"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 41.38,
+          "omschrijving": "nisi minim consequat"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 191.11,
+          "omschrijving": "laboris pariatur voluptate"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 409.8,
+          "omschrijving": "ea laboris ad"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 299.99,
+          "omschrijving": "culpa quis velit"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 85.62,
+          "omschrijving": "Lorem commodo do"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 227.26,
+          "omschrijving": "nulla consectetur nulla"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 462.08,
+          "omschrijving": "non veniam ipsum"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 7,
+          "prijs": 458.12,
+          "omschrijving": "fugiat sint nisi"
+        },
+        {
+          "nummer": 16,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 305.88,
+          "omschrijving": "ad culpa nulla"
+        },
+        {
+          "nummer": 17,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 434.28,
+          "omschrijving": "fugiat exercitation veniam"
+        },
+        {
+          "nummer": 18,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 384.41,
+          "omschrijving": "duis esse occaecat"
+        }
+      ],
+      "korting": 0.2,
+      "definitief": true,
+      "datum": "2021-01-14T01:00:40-01:00"
+    },
+    {
+      "id": 42,
+      "organisatie": "Quility",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 458.29,
+          "omschrijving": "incididunt exercitation et"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 243.47,
+          "omschrijving": "enim ad dolor"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 315.85,
+          "omschrijving": "aliquip nostrud occaecat"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 148.06,
+          "omschrijving": "tempor aliquip eu"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 230.05,
+          "omschrijving": "et sint veniam"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 325.86,
+          "omschrijving": "cillum elit amet"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 402.34,
+          "omschrijving": "amet voluptate nulla"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 31.04,
+          "omschrijving": "laboris mollit exercitation"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 112.15,
+          "omschrijving": "aliqua excepteur occaecat"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 488.57,
+          "omschrijving": "aliquip esse eiusmod"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 81.98,
+          "omschrijving": "mollit commodo sunt"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 289.44,
+          "omschrijving": "voluptate labore incididunt"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 151.35,
+          "omschrijving": "sit laborum cupidatat"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 166.65,
+          "omschrijving": "minim sit non"
+        },
+        {
+          "nummer": 14,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 390.8,
+          "omschrijving": "irure velit est"
+        },
+        {
+          "nummer": 15,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 324,
+          "omschrijving": "proident sit excepteur"
+        },
+        {
+          "nummer": 16,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 428.68,
+          "omschrijving": "amet labore cillum"
+        },
+        {
+          "nummer": 17,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 271.52,
+          "omschrijving": "anim anim magna"
+        },
+        {
+          "nummer": 18,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 430.59,
+          "omschrijving": "aliqua mollit fugiat"
+        },
+        {
+          "nummer": 19,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 290.09,
+          "omschrijving": "nulla tempor est"
+        }
+      ],
+      "korting": 0.03,
+      "definitief": false,
+      "datum": "2021-05-24T12:53:54-02:00"
+    },
+    {
+      "id": 43,
+      "organisatie": "Flyboyz",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 467.53,
+          "omschrijving": "duis laboris incididunt"
+        },
+        {
+          "nummer": 1,
+          "btw": "9%",
+          "aantal": 5,
+          "prijs": 269.31,
+          "omschrijving": "aliquip commodo aliqua"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 251.33,
+          "omschrijving": "incididunt do velit"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 367.11,
+          "omschrijving": "occaecat ea eu"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 299.68,
+          "omschrijving": "enim in irure"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 441.49,
+          "omschrijving": "in velit ut"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 467.93,
+          "omschrijving": "ex excepteur et"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 261.3,
+          "omschrijving": "incididunt mollit proident"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 458.62,
+          "omschrijving": "enim quis commodo"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 117.87,
+          "omschrijving": "nulla enim enim"
+        },
+        {
+          "nummer": 10,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 455.7,
+          "omschrijving": "non id ad"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 309.26,
+          "omschrijving": "id elit ex"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 418.61,
+          "omschrijving": "id id velit"
+        },
+        {
+          "nummer": 13,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 306.48,
+          "omschrijving": "proident et elit"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 438.94,
+          "omschrijving": "fugiat sit culpa"
+        },
+        {
+          "nummer": 15,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 368.41,
+          "omschrijving": "magna et cillum"
+        },
+        {
+          "nummer": 16,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 27.4,
+          "omschrijving": "non cillum dolor"
+        }
+      ],
+      "korting": 0.2,
+      "definitief": true,
+      "datum": "2021-07-16T10:11:00-02:00"
+    },
+    {
+      "id": 44,
+      "organisatie": "Klugger",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 97.1,
+          "omschrijving": "irure id ullamco"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 387.87,
+          "omschrijving": "cupidatat proident labore"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 110.66,
+          "omschrijving": "incididunt ad sunt"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 490.07,
+          "omschrijving": "tempor id sint"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 9,
+          "prijs": 398.06,
+          "omschrijving": "incididunt anim consequat"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 378.79,
+          "omschrijving": "dolore Lorem nisi"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 92.51,
+          "omschrijving": "deserunt esse aliqua"
+        },
+        {
+          "nummer": 7,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 58.32,
+          "omschrijving": "occaecat dolore nostrud"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 485.43,
+          "omschrijving": "incididunt labore duis"
+        },
+        {
+          "nummer": 9,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 115.73,
+          "omschrijving": "irure voluptate proident"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 190.61,
+          "omschrijving": "do veniam Lorem"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 448.01,
+          "omschrijving": "ad elit deserunt"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 197.91,
+          "omschrijving": "ullamco consequat nisi"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 222.65,
+          "omschrijving": "esse sit veniam"
+        }
+      ],
+      "korting": 0.08,
+      "definitief": false,
+      "datum": "2021-09-21T12:55:18-02:00"
+    },
+    {
+      "id": 45,
+      "organisatie": "Pyramis",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 82.49,
+          "omschrijving": "occaecat adipisicing duis"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 105.94,
+          "omschrijving": "duis dolore laborum"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 115.38,
+          "omschrijving": "nostrud adipisicing irure"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 368.25,
+          "omschrijving": "ea laborum voluptate"
+        },
+        {
+          "nummer": 4,
+          "btw": "9%",
+          "aantal": 10,
+          "prijs": 149.43,
+          "omschrijving": "qui minim exercitation"
+        },
+        {
+          "nummer": 5,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 126.89,
+          "omschrijving": "esse nostrud eiusmod"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 44.68,
+          "omschrijving": "deserunt esse nostrud"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 355.55,
+          "omschrijving": "deserunt aute minim"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 7,
+          "prijs": 310.16,
+          "omschrijving": "esse et incididunt"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 350.96,
+          "omschrijving": "est eu amet"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 182.63,
+          "omschrijving": "adipisicing duis id"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 320.67,
+          "omschrijving": "tempor esse proident"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 69.35,
+          "omschrijving": "duis sit enim"
+        },
+        {
+          "nummer": 13,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 33.4,
+          "omschrijving": "amet sunt et"
+        },
+        {
+          "nummer": 14,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 349.46,
+          "omschrijving": "consectetur laboris quis"
+        },
+        {
+          "nummer": 15,
+          "btw": "9%",
+          "aantal": 2,
+          "prijs": 352.78,
+          "omschrijving": "pariatur id sint"
+        }
+      ],
+      "korting": 0.01,
+      "definitief": false,
+      "datum": "2021-08-26T09:01:34-02:00"
+    },
+    {
+      "id": 46,
+      "organisatie": "Ezentia",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 112.54,
+          "omschrijving": "excepteur mollit magna"
+        },
+        {
+          "nummer": 1,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 373.02,
+          "omschrijving": "aliqua aliqua proident"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 10,
+          "prijs": 294.26,
+          "omschrijving": "id ex aliqua"
+        },
+        {
+          "nummer": 3,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 43.95,
+          "omschrijving": "duis adipisicing exercitation"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 291.43,
+          "omschrijving": "voluptate aliquip exercitation"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 197.02,
+          "omschrijving": "ad elit ullamco"
+        },
+        {
+          "nummer": 6,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 221.82,
+          "omschrijving": "eu exercitation eu"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 7,
+          "prijs": 370.83,
+          "omschrijving": "velit eu incididunt"
+        },
+        {
+          "nummer": 8,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 303.02,
+          "omschrijving": "et tempor deserunt"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 270.55,
+          "omschrijving": "in est enim"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 64.05,
+          "omschrijving": "velit cillum eu"
+        },
+        {
+          "nummer": 11,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 469.66,
+          "omschrijving": "laboris in et"
+        },
+        {
+          "nummer": 12,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 104.16,
+          "omschrijving": "est ullamco deserunt"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 3,
+          "prijs": 67.89,
+          "omschrijving": "nulla excepteur sit"
+        }
+      ],
+      "korting": 0.19,
+      "definitief": false,
+      "datum": "2021-12-25T12:35:29-01:00"
+    },
+    {
+      "id": 47,
+      "organisatie": "Uni",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 101.46,
+          "omschrijving": "cillum ut esse"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 350.42,
+          "omschrijving": "ullamco velit et"
+        },
+        {
+          "nummer": 2,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 168.76,
+          "omschrijving": "in minim anim"
+        },
+        {
+          "nummer": 3,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 137.13,
+          "omschrijving": "ullamco qui sint"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 367.34,
+          "omschrijving": "mollit qui irure"
+        },
+        {
+          "nummer": 5,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 99.64,
+          "omschrijving": "ad Lorem ullamco"
+        },
+        {
+          "nummer": 6,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 461.14,
+          "omschrijving": "fugiat cupidatat ullamco"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 9,
+          "prijs": 367.46,
+          "omschrijving": "aliqua sunt elit"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 375.21,
+          "omschrijving": "aliqua commodo ullamco"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 103.39,
+          "omschrijving": "eu culpa aute"
+        },
+        {
+          "nummer": 10,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 112.42,
+          "omschrijving": "ut est cillum"
+        },
+        {
+          "nummer": 11,
+          "btw": "9%",
+          "aantal": 4,
+          "prijs": 27.17,
+          "omschrijving": "aute quis aute"
+        },
+        {
+          "nummer": 12,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 476.28,
+          "omschrijving": "consequat adipisicing reprehenderit"
+        }
+      ],
+      "korting": 0.04,
+      "definitief": true,
+      "datum": "2021-10-27T04:22:11-02:00"
+    },
+    {
+      "id": 48,
+      "organisatie": "Unisure",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 8,
+          "prijs": 92.29,
+          "omschrijving": "dolor ad et"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 216.85,
+          "omschrijving": "ea minim est"
+        },
+        {
+          "nummer": 2,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 485.48,
+          "omschrijving": "occaecat quis dolor"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 1,
+          "prijs": 193.25,
+          "omschrijving": "do labore cillum"
+        },
+        {
+          "nummer": 4,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 346.79,
+          "omschrijving": "quis velit dolor"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 3,
+          "prijs": 450.78,
+          "omschrijving": "ad mollit occaecat"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 68.17,
+          "omschrijving": "incididunt dolore consequat"
+        },
+        {
+          "nummer": 7,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 455.61,
+          "omschrijving": "id reprehenderit reprehenderit"
+        },
+        {
+          "nummer": 8,
+          "btw": "0%",
+          "aantal": 1,
+          "prijs": 324.35,
+          "omschrijving": "quis aliqua commodo"
+        },
+        {
+          "nummer": 9,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 113.38,
+          "omschrijving": "ullamco occaecat ullamco"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 6,
+          "prijs": 350.51,
+          "omschrijving": "dolore eu excepteur"
+        },
+        {
+          "nummer": 11,
+          "btw": "0%",
+          "aantal": 9,
+          "prijs": 116.97,
+          "omschrijving": "ad aliquip officia"
+        },
+        {
+          "nummer": 12,
+          "btw": "0%",
+          "aantal": 6,
+          "prijs": 54.23,
+          "omschrijving": "mollit nisi sit"
+        },
+        {
+          "nummer": 13,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 373.52,
+          "omschrijving": "elit enim commodo"
+        },
+        {
+          "nummer": 14,
+          "btw": "0%",
+          "aantal": 8,
+          "prijs": 329.51,
+          "omschrijving": "reprehenderit elit eiusmod"
+        },
+        {
+          "nummer": 15,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 413.11,
+          "omschrijving": "nisi eiusmod ut"
+        },
+        {
+          "nummer": 16,
+          "btw": "0%",
+          "aantal": 2,
+          "prijs": 301.97,
+          "omschrijving": "irure ipsum ex"
+        },
+        {
+          "nummer": 17,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 95.73,
+          "omschrijving": "amet cupidatat consequat"
+        }
+      ],
+      "korting": 0,
+      "definitief": true,
+      "datum": "2021-01-29T05:16:49-01:00"
+    },
+    {
+      "id": 49,
+      "organisatie": "Sarasonic",
+      "regels": [
+        {
+          "nummer": 0,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 192.28,
+          "omschrijving": "tempor laborum enim"
+        },
+        {
+          "nummer": 1,
+          "btw": "21%",
+          "aantal": 4,
+          "prijs": 402.44,
+          "omschrijving": "quis nulla culpa"
+        },
+        {
+          "nummer": 2,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 449.65,
+          "omschrijving": "proident ex qui"
+        },
+        {
+          "nummer": 3,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 95.43,
+          "omschrijving": "proident voluptate laborum"
+        },
+        {
+          "nummer": 4,
+          "btw": "0%",
+          "aantal": 4,
+          "prijs": 384,
+          "omschrijving": "amet labore pariatur"
+        },
+        {
+          "nummer": 5,
+          "btw": "0%",
+          "aantal": 5,
+          "prijs": 106.84,
+          "omschrijving": "esse duis fugiat"
+        },
+        {
+          "nummer": 6,
+          "btw": "0%",
+          "aantal": 10,
+          "prijs": 26.98,
+          "omschrijving": "ad id ad"
+        },
+        {
+          "nummer": 7,
+          "btw": "9%",
+          "aantal": 8,
+          "prijs": 426.96,
+          "omschrijving": "eu pariatur incididunt"
+        },
+        {
+          "nummer": 8,
+          "btw": "9%",
+          "aantal": 1,
+          "prijs": 335.22,
+          "omschrijving": "laborum sint non"
+        },
+        {
+          "nummer": 9,
+          "btw": "21%",
+          "aantal": 5,
+          "prijs": 87.52,
+          "omschrijving": "veniam nisi laborum"
+        },
+        {
+          "nummer": 10,
+          "btw": "21%",
+          "aantal": 2,
+          "prijs": 268.34,
+          "omschrijving": "elit Lorem ea"
+        }
+      ],
+      "korting": 0.18,
+      "definitief": true,
+      "datum": "2021-10-29T10:48:35-02:00"
+    }
+  ]
