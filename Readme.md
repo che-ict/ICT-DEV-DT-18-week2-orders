@@ -2,11 +2,31 @@
 
 De applicatie berekent de bruto prijs (incl. BTW) van de orders in het gegeven json bestand. Er gaat alleen iets mis: de totaal prijs is veel te hoog in sommige gevallen!
 
+# Tests
+
+Schrijf tests voor de volgende scenarios:
+
+ - `CalculateTotalOrderPrice(...)` voor hardcoded order met 0 regels geeft 0 terug
+ - `CalculateTotalOrderPrice(...)` voor hardcoded order met 1 hardcoded regel geeft juiste prijs terug
+ - `CalculateTotalOrderPrice(...)` voor hardcoded order met 2 hardcoded regels geeft juiste prijs terug
+ - `CalculateTotal(...)` voor hardcoded lijst van 2 orders geeft juiste prijs terug
+ - `CalculateTotal(...)` voor hardcoded lijst van lege lijst orders geeft 0 terug
+
+Denk ook aan:
+
+ - `korting` van meer dan 1 geeft foutmelding (of wellicht andere grens afgesproken met product owner)
+ - `btw` anders dan 0, 9 of 21 procent geeft foutmelding
+ - negatieve `prijs` geeft foutmelding
+ - negatieve `aantal` geeft foutmelding
+ - welke kun je nog meer bedenken?
+
 # Improvement
 
 Er zit een veld voor korting op de order: pas de korting toe op de totaal prijs van elk order. Als de korting 7% is, dan heeft het veld `korting` de waarde `.07`.
 
 $$totaal = (1 - korting) \sum_{r \in Regels} r_{aantal} \times r_{prijs} \times r_{btw}$$
+
+Schrijf ook een test om deze improvement te bewaken.
 
 # Json
 
