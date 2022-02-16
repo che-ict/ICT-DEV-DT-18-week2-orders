@@ -48,7 +48,7 @@ Schrijf ook een test om deze improvement te bewaken.
 
 # Json
 
-Json is gegenereerd middels `https://json-generator.com/` met de volgende definitie:
+Json is gegenereerd middels [json-generator.com](https://json-generator.com/) met de volgende definitie:
 
 ```js
 [
