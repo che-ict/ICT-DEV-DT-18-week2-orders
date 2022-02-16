@@ -1,15 +1,3 @@
-# Fork
-
-Spreek met een persoon af om samen te werken aan deze opdracht. Neem de volgende stappen:
-
-1. **Eén van jullie** klikt rechtsboven op `Fork`. Hiermee kopieert hij/zij de repository naar zijn/haar eigen omgeving. 
-2. Vervolgens gaat die persoon naar `Settings` &gt; `Collaborators`. Bij `Manage access` voeg je de ander persoon toe, zodat jullie beiden kunnen werken aan deze repo. 
-3. Ga **beiden** in jullie github repo naar `Code` (eerste tab) en klik op de groene knop `Code`, een dropdown verschijnt.
-4. Controleer dat `HTTPS` is geselecteerd, en klik op het `kopieer` icoontje naast de url
-5. Open een terminal in je Visual Code omgeving en zorg dat je in je DT directory zit
-6. Type: `git clone <plak hier de gekopieerde url>`
-7. Open deze nieuw aangemaakt folder (`ICT-DEV-DT-18-week2-orders`) in Visual Code
-
 # Bug
 
 De applicatie berekent de bruto prijs (incl. BTW) van de orders in het gegeven json bestand. Er gaat alleen iets mis: de totaal prijs is veel te hoog in sommige gevallen!
@@ -31,6 +19,22 @@ Denk ook aan:
  - negatieve `prijs` geeft foutmelding
  - negatieve `aantal` geeft foutmelding
  - welke kun je nog meer bedenken?
+
+# Fork
+
+Spreek met een persoon af om samen te werken aan deze opdracht. Neem de volgende stappen:
+
+1. **Eén van jullie** klikt rechtsboven op `Fork`. Hiermee kopieert hij/zij de repository naar zijn/haar eigen omgeving. 
+2. Vervolgens gaat die persoon naar `Settings` &gt; `Collaborators`. Bij `Manage access` voeg je de ander persoon toe, zodat jullie beiden kunnen werken aan deze repo. 
+3. Ga **beiden** in jullie github repo naar `Code` (eerste tab) en klik op de groene knop `Code`, een dropdown verschijnt.
+4. Controleer dat `HTTPS` is geselecteerd, en klik op het `kopieer` icoontje naast de url
+5. Open een terminal in je Visual Code omgeving en zorg dat je in je DT directory zit
+6. Type: `git clone <plak hier de gekopieerde url>`
+7. Open deze nieuw aangemaakt folder (`ICT-DEV-DT-18-week2-orders`) in Visual Code
+
+Vervolgens maakt 1 van jullie de improvement zoals beschreven in de improvement sectie hieronder. De ander hernoemt de variabele `sum` naar `totaal` in de functie `CalculateTotal(...)`. Degene die de improvement maakt hernoemt de variabele `sum` niet! Controleer dat jullie wijzingen hebben gemaakt op dezelfde regel.
+
+Commit jullie werk en push het allebei naar jullie remote repo (github).
 
 # Improvement
 
