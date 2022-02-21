@@ -4,21 +4,43 @@ De applicatie berekent de bruto prijs (incl. BTW) van de orders in het gegeven j
 
 # Tests
 
-Schrijf tests voor de volgende scenarios:
+## Uitvoeren van tests
 
- - `CalculateTotalOrderPrice(...)` voor hardcoded order met 0 regels geeft 0 terug
- - `CalculateTotalOrderPrice(...)` voor hardcoded order met 1 hardcoded regel geeft juiste prijs terug
- - `CalculateTotalOrderPrice(...)` voor hardcoded order met 2 hardcoded regels geeft juiste prijs terug
- - `CalculateTotal(...)` voor hardcoded lijst van 2 orders geeft juiste prijs terug
- - `CalculateTotal(...)` voor hardcoded lijst van lege lijst orders geeft 0 terug
+Je kunt de tests op verschillende manieren uitvoeren.
 
-Denk ook aan:
+Met het volgende commando voer je alle tests van de hele applicatie uit:
 
- - `korting` van meer dan 1 geeft foutmelding (of wellicht andere grens afgesproken met product owner)
- - `btw` anders dan 0, 9 of 21 procent geeft foutmelding
- - negatieve `prijs` geeft foutmelding
- - negatieve `aantal` geeft foutmelding
- - welke kun je nog meer bedenken?
+```bash
+go test ./...
+```
+
+Met het volgende commando voer je de tests van een specifieke package uit:
+
+```bash
+go test che/dt/week2/orders/business
+```
+
+In VS Code kun je specifieke tests uitvoeren door op de 'play' knop links van de test functie te klikken, of op 'run test' of 'debug test'
+
+## Test cases
+
+De applicatie bevat twee functies in de `business` package die je goed kunt testen:
+
+- `CalculateTotal`
+- `CalculateTotalOrderPrice`
+
+Voor `CalculateTotalOrderPrice` kun je de volgende tests schrijven:
+
+- `TestCalculateTotalOrderPrice_MultipleOrderLines_GivesExpectedTotal` - Test dat een order met meerdere orderregels van verschillend prijs, aantal en btw tarief het juiste totaalbedrag teruggeeft
+- `TestCalculateTotalOrderPrice_NoOrderLines_GivesTotalZero` - Test dat een order zonder order regels een totaal van 0 teruggeeft
+- `TestCalculateTotalOrderPrice_SingleOrderLine_GivesExpectedTotal` - Test dat een order met eén orderregel het juiste totaalbedrag teruggeeft
+- `TestCalculateTotalOrderPrice_OrderLineWithDiscount_GivesExpectedTotal` - Test dat een order met een orderregel met een kortingspercentage het juiste totaalbedrag teruggeeft
+- `TestCalculateTotalOrderPrice_OrderLineWith21PercentVat_GivesExpectedTotal` - Test dat een order met een orderregel met een btw tarief van 21% het juiste totaalbedrag teruggeeft
+- `TestCalculateTotalOrderPrice_OrderLineWith9PercentVat_GivesExpectedTotal` - Test dat een order met een orderregel met een btw tarief van 9% het juiste totaalbedrag teruggeeft
+- `TestCalculateTotalOrderPrice_NegativeQuantity_GivesError` - Test dat een order met een orderregel met een negatieve aantal een error teruggeeft
+- `TestCalculateTotalOrderPrice_NegativePrijs_GivesError` - Test dat een order met een orderregel met een negatieve prijs een error teruggeeft
+
+> Bedenk zelf test cases voor de `CalculateTotalOrderPrice` functie
 
 # Fork
 
