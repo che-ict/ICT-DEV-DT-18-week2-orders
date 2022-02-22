@@ -7,14 +7,14 @@ import (
 
 // Retourneert de totale bruto pijs (incl. BTW) van alle gegeven orders
 func CalculateTotal(orders []types.Order) float32 {
-	var sum float32 = 0
+	var totaal float32 = 0
 
 	for _, order := range orders {
 
-		sum += CalculateTotalOrderPrice(order)
+		totaal += CalculateTotalOrderPrice(order)
 	}
 
-	return sum
+	return totaal
 }
 
 // Retourneert de totale bruto pijs (incl. BTW) van de gegeven order
