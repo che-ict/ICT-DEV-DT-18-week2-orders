@@ -29,6 +29,8 @@ func CalculateTotalOrderPrice(order types.Order) float32 {
 			btwFactor = 1.21
 		case "9%":
 			btwFactor = 1.09
+		case "7%":
+			btwFactor = 1.07
 		case "0%":
 			btwFactor = 1.0
 		default:
