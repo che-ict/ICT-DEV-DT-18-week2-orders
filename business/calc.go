@@ -2,6 +2,7 @@ package business
 
 import (
 	"che/dt/week2/orders/types"
+	"errors"
 	"fmt"
 )
 
@@ -19,6 +20,11 @@ func CalculateTotal(orders []types.Order) float32 {
 
 // Retourneert de totale bruto pijs (incl. BTW) van de gegeven order
 func CalculateTotalOrderPrice(order types.Order) float32 {
+	err := ValidateOrder(order)
+	if err != nil {
+		panic(fmt.Sprint("Berekening mislukt: ", err))
+	}
+
 	var btwFactor float32
 
 	var totaal float32 = 0
@@ -42,4 +48,22 @@ func CalculateTotalOrderPrice(order types.Order) float32 {
 
 	return totaal
 
+}
+
+func ValidateOrder(order types.Order) error {
+	if order.Id < 0 {
+		return errors.New("id is negatief")
+	} else if order.Korting > float32(1) || order.Korting < float32(0) {
+		return errors.New("korting is geen juist getal")
+	} else {
+		for i, regel := range order.Regels {
+			if regel.Aantal < 0 {
+				return errors.New(fmt.Sprint("Ongeldig veld Aantal in Order nummer ", i))
+			} else if regel.Prijs < float32(0) {
+				return errors.New(fmt.Sprint("Ongeldig veld Prijs in Order nummer ", i))
+			}
+		}
+	}
+
+	return nil
 }
