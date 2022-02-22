@@ -35,7 +35,7 @@ func CalculateTotalOrderPrice(order types.Order) float32 {
 			panic(fmt.Sprintf("Unknown btw percentage (%v) in order for %v on %v, regel %v!", regel.Btw, order.Organisatie, order.Datum, regel.Nummer))
 		}
 
-		sum += float32(regel.Aantal) * regel.Prijs * btwFactor
+		sum += (float32(regel.Aantal) * regel.Prijs * btwFactor) - (1 - order.Korting)
 	}
 
 	return sum
