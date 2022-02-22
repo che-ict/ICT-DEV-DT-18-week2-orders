@@ -41,4 +41,5 @@ func CalculateTotalOrderPrice(order types.Order) float32 {
 	}
 
 	return totaal
+
 }
