@@ -170,7 +170,7 @@ Je gaat nu het pull request van je buddy reviewen en mergen.
 2. Klik eventueel op Filters en kies voor `Everything assigned to you` om alleen de pull requests te zien die aan jou toegekend zijn
 3. Open de pull request van je buddy en lees de pagina door en bekijk de verschillende tabs (`Commits`, `Checks` en `Files changed`)
 4. Neem de code door in de tab `Files changed` en kijk of je het ermee eens bent. Voeg op z'n minst een commentaar toe door op het plusje te drukken bij een van de gewijzigde regels. Start daarmee een review.
-5. Klik op `Finish your review` en laat een algemene tekst over ter info voor je buddy
+5. Klik op `Finish your review` en laat een algemene tekst achter ter info voor je buddy
 6. Kies voor `Approve` als je het er mee eens bent en de feature gemerged mag worden naar de master branch. Kies anders voor `Request changes`. In dit geval kiezen we voor `Approve`. Submit je review.
 7. Je hebt de feature geaccepteerd en de wijzigingen gemerged in de master branch
 8. Doe een pull, en bekijk de git graph om je wijzigingen te zien.
