@@ -40,3 +40,16 @@ func CalculateTotalOrderPrice(order types.Order) float32 {
 
 	return totaal
 }
+	func GetMostExpensiveOrder(orders []types.Order) types.Order{
+			max = 0
+	maxOrder = nil
+	for _,v := range orders {
+		
+	}
+	orderPrice = CalculateTotalOrderPrice(order)
+	if orderPrice > max
+		max = orderPrice
+		maxOrder = order
+
+	return maxOrder		
+	}
