@@ -18,4 +18,5 @@ func main() {
 
 	fmt.Printf("Aantal orders: %v\n", len(orders))
 	fmt.Printf("Total order price: %.2f\n", business.CalculateTotal(orders))
+	fmt.Printf("Most expensive order: %v\n", business.GetMostExpensiveOrder(orders))
 }
