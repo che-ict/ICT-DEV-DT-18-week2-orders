@@ -79,6 +79,7 @@ func GetMostExpensiveOrder(orders []types.Order) types.Order {
 		}
 	}
 	return MaxOrder
+}
 
 func PrintOrders(orders []types.Order) {
 	for _, order := range orders {
