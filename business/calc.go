@@ -68,6 +68,18 @@ func ValidateOrder(order types.Order) error {
 	return nil
 }
 
+func GetMostExpensiveOrder(orders []types.Order) types.Order {
+	var max = 0
+	MaxOrder := types.Order{}
+	for _, order := range orders {
+		var orderPrice = CalculateTotalOrderPrice(order)
+		if orderPrice > float32(max) {
+			max = int(orderPrice)
+			MaxOrder = order
+		}
+	}
+	return MaxOrder
+
 func PrintOrders(orders []types.Order) {
 	for _, order := range orders {
 		fmt.Printf("- %v: %v regels, %.2f euro\n", order.Organisatie, len(order.Regels), CalculateTotalOrderPrice(order))
