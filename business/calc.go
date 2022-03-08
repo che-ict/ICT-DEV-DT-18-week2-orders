@@ -67,3 +67,9 @@ func ValidateOrder(order types.Order) error {
 
 	return nil
 }
+
+func PrintOrders(orders []types.Order) {
+	for _, order := range orders {
+		fmt.Printf("- %v: %v regels, %.2f euro\n", order.Organisatie, len(order.Regels), CalculateTotalOrderPrice(order))
+	}
+}
