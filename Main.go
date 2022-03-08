@@ -19,3 +19,15 @@ func main() {
 	fmt.Printf("Aantal orders: %v\n", len(orders))
 	fmt.Printf("Total order price: %.2f\n", business.CalculateTotal(orders))
 }
+
+/*
+max = 0
+maxOrder = nil
+foreach order in orders
+  orderPrice = CalculateTotalOrderPrice(order)
+  if orderPrice > max
+    max = orderPrice
+    maxOrder = order
+
+return maxOrder
+*/
