@@ -79,4 +79,9 @@ func GetMostExpensiveOrder(orders []types.Order) types.Order {
 		}
 	}
 	return MaxOrder
+
+func PrintOrders(orders []types.Order) {
+	for _, order := range orders {
+		fmt.Printf("- %v: %v regels, %.2f euro\n", order.Organisatie, len(order.Regels), CalculateTotalOrderPrice(order))
+	}
 }
