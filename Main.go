@@ -18,4 +18,8 @@ func main() {
 
 	fmt.Printf("Aantal orders: %v\n", len(orders))
 	fmt.Printf("Total order price: %.2f\n", business.CalculateTotal(orders))
+
+	for _, order := range orders{
+		fmt.Printf(" - %v: len(%v), € CalculateTotalOrderPrice(%v)", order.Organisatie, order.Regels, order)
+	}
 }
