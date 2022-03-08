@@ -12,3 +12,7 @@ func ReadOrders(filename string, orders *[]types.Order) {
 		panic(err)
 	}
 }
+
+func PrintOrders(orders []types.Order) {
+	print(" - order.Organisatie: len(order.Regels), € CalculateTotalOrderPrice(order)")	
+}
