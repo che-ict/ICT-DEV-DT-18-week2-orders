@@ -12,3 +12,20 @@ func ReadOrders(filename string, orders *[]types.Order) {
 		panic(err)
 	}
 }
+
+func GetMostExpensiveOrder(orders []types.Order) types.Order {
+	max = 0
+	maxOrder = nil
+	for _, order := range orders.json {
+		orderPrice = CalculateTotalOrderPrice(order)
+
+		if orderPrice > max {
+			max = orderPrice
+			maxOrder = order
+
+			return maxOrder
+		}
+
+	}
+
+}
