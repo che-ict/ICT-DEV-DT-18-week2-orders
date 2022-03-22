@@ -6,10 +6,10 @@ import (
 
 func GetMostExpensiveOrder(orders []types.Order) types.Order {
 
-	max := 0
-	maxOrder := nil
-	orderPrice := 0
-	for order := range orders {
+	var max float32
+	var maxOrder types.Order
+	var orderPrice float32
+	for _, order := range orders {
 		orderPrice = CalculateTotalOrderPrice(order)
 		if orderPrice > max {
 			max = orderPrice
