@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// Retourneert de totale bruto pijs (incl. BTW) van alle gegeven orders
+// Retourneert de totale bruto pijs (incl. BTW) van alle gegeven orders Dit is een test
 func CalculateTotal(orders []types.Order) float32 {
 	var sum float32 = 0
 
@@ -17,7 +17,7 @@ func CalculateTotal(orders []types.Order) float32 {
 	return sum
 }
 
-// Retourneert de totale bruto pijs (incl. BTW) van de gegeven order
+// Retourneert de totale bruto pijs (incl. BTW) van de gegeven ord    er
 func CalculateTotalOrderPrice(order types.Order) float32 {
 	var btwFactor float32
 
