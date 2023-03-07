@@ -1,3 +1,7 @@
+# Hello world
+
+Hoi allemaal
+
 # Bug
 
 De applicatie berekent de bruto prijs (incl. BTW) van de orders in het gegeven json bestand. Er gaat alleen iets mis: de totaal prijs is veel te hoog in sommige gevallen!
