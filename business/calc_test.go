@@ -10,6 +10,7 @@ func TestCalculateTotalOrderPrice_MultipleOrderLines_GivesExpectedTotal(t *testi
 
 	//hallo
 	//EINDELUK
+	//a
 	// order := types.Order{
 	// 	Id:          0,
 	// 	Organisatie: "Centuria",
