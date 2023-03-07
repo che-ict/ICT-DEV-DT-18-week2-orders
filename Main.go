@@ -13,9 +13,16 @@ func main() {
 		os.Exit(1)
 	}
 
-	var orders []types.Order
+	var orders []types.Order 
 	business.ReadOrders(os.Args[1], &orders)
 
 	fmt.Printf("Aantal orders: %v\n", len(orders))
 	fmt.Printf("Total order price: %.2f\n", business.CalculateTotal(orders))
+	for 
+		i := 1; i>0; i++{
+
+			fmt.Printf(" - order.Organisatie: len(order.Regels), € CalculateTotalOrderPrice(order)" )
+		}
+
+	
 }
