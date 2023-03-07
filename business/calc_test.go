@@ -6,7 +6,7 @@ import (
 
 func TestCalculateTotalOrderPrice_MultipleOrderLines_GivesExpectedTotal(t *testing.T) {
 
-	// Given
+	// honkyplankie
 
 	// order := types.Order{
 	// 	Id:          0,
